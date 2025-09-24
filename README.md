@@ -1,7 +1,7 @@
 # Hello World!! 👋  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ENNDRAKKO/ENNDRAKKO/main/assets/84d79f587caeee69caf306386ec3527d_w200.gif" alt="Luffy Gear 5" width="600"/>
+  <img src="https://raw.githubusercontent.com/ENNDRAKKO/ENNDRAKKO/main/assets/84d79f587caeee69caf306386ec3527d_w200.gif" alt="Luffy Gear 5" width="400" height="200"/>
 </p>
 
 My name is Nassim,  
