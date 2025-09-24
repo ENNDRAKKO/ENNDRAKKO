@@ -39,8 +39,9 @@ My name is Nassim,
 ## 🐍 Gear4-Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ENNDRAKKO/ENNDRAKKO/main/snake.svg" alt="GitHub Contributions Snake"/>
+  <img src="https://github.com/Platane/snk/raw/master/snake.svg?user=ENNDRAKKO" alt="GitHub Contributions Snake"/>
 </p>
+
 
 
 <p align="center">
