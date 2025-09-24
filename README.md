@@ -36,11 +36,12 @@ My name is Nassim,
 
 ---
 
-## 🐍 Snake Contribution Animation
+## 🐍 Gear4-Snake 
 
-![Snake animation](https://github.com/ENNDRAKKO/ENNDRAKKO/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ENNDRAKKO/ENNDRAKKO/main/snake.svg" alt="GitHub Contributions Snake"/>
+</p>
 
----
 
 <p align="center">
   <img src="https://i.ibb.co/2cXTRdH/hacker-anonymous.gif" alt="Hacker Vibes" width="600"/>
